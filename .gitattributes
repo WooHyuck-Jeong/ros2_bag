@@ -3,3 +3,4 @@ test0622/test0622_under_gantry/test0622_under_gantry_0.db3 filter=lfs diff=lfs m
 test0625/jwh/jwh_0.db3 filter=lfs diff=lfs merge=lfs -text
 test0625/rosbag2_2025_06_25-11_10_37/rosbag2_2025_06_25-11_10_37_0.db3 filter=lfs diff=lfs merge=lfs -text
 test0626/test/test_0.db3 filter=lfs diff=lfs merge=lfs -text
+test0626/test_jwh/test_jwh_0.db3 filter=lfs diff=lfs merge=lfs -text
