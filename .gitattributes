@@ -8,3 +8,4 @@ demo/demo0627/demo0627_0.db3 filter=lfs diff=lfs merge=lfs -text
 demo/demo0627_2/demo0627_2_0.db3 filter=lfs diff=lfs merge=lfs -text
 test0707/dvl_test2/dvl_test2/dvl_test2_0.db3 filter=lfs diff=lfs merge=lfs -text
 test0707/test3_y_axis/dvl_y_axis/dvl_y_axis_0.db3 filter=lfs diff=lfs merge=lfs -text
+test0707/test4_rotation/test4_rotation/test4_rotation_0.db3 filter=lfs diff=lfs merge=lfs -text
